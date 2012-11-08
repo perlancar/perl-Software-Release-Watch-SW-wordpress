@@ -1,4 +1,4 @@
-package Software::Release::Watch::wordpress;
+package Software::Release::Watch::sw::wordpress;
 
 use 5.010;
 use Moo;
