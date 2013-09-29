@@ -1,6 +1,6 @@
 package Software::Release::Watch::SW::wordpress;
 
-use 5.010;
+use 5.010001;
 use Moo;
 
 # VERSION
